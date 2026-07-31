@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes **116 software and operational supply chain attacks** from 2017 to July 2026, aggregating data from three authoritative sources and enriching it with MITRE ATT&CK mappings, detection metrics, and governance-layer analysis. The goal is to identify trends, shifts, and gaps in how supply chain risk is governed — and to challenge the conventional narrative that supply chain security is primarily a nation-state APT problem.
+This project analyzes **116 software and operational supply chain attacks** from 2020 to July 2026, aggregating data from three authoritative sources and enriching it with MITRE ATT&CK mappings, detection metrics, and governance-layer analysis. The goal is to identify trends, shifts, and gaps in how supply chain risk is governed — and to challenge the conventional narrative that supply chain security is primarily a nation-state APT problem.
 
 ## Key Finding: The Governance-Exposure Inversion
 
